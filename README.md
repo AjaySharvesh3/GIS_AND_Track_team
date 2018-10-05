@@ -21,10 +21,10 @@ I just added the starter code (Hello World Application). We are currently lookin
 ### Resources
 In case you are Starting a project with your own team make sure you follow the mandatory guidelines mentioned here.
 
-For Guidelines:
+#### ***For Guidelines:***
 ![Guidelines](https://docs.google.com/document/d/16Zs37dGFmwvQtdWD0Cq_xB9K4d89c2tIKj8Kl2DAlyQ/edit?usp=sharing)
 
-Project Moderation Team:
+#### ***Project Moderation Team:***
 ![The Project Moderation Team](https://docs.google.com/spreadsheets/d/12ZjmkwbF1sFC9su1Im6YQcGZXMisoH6ubc0xjpo6CIE/edit?usp=sharing)
 
 
